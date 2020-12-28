@@ -1,0 +1,13 @@
+C:\Users\Be9137\Programming\Number_Guessing_Game\bin\Debug\netcoreapp3.1\Number_Guessing_Game.exe
+C:\Users\Be9137\Programming\Number_Guessing_Game\bin\Debug\netcoreapp3.1\Number_Guessing_Game.deps.json
+C:\Users\Be9137\Programming\Number_Guessing_Game\bin\Debug\netcoreapp3.1\Number_Guessing_Game.runtimeconfig.json
+C:\Users\Be9137\Programming\Number_Guessing_Game\bin\Debug\netcoreapp3.1\Number_Guessing_Game.runtimeconfig.dev.json
+C:\Users\Be9137\Programming\Number_Guessing_Game\bin\Debug\netcoreapp3.1\Number_Guessing_Game.dll
+C:\Users\Be9137\Programming\Number_Guessing_Game\bin\Debug\netcoreapp3.1\Number_Guessing_Game.pdb
+C:\Users\Be9137\Programming\Number_Guessing_Game\obj\Debug\netcoreapp3.1\Number_Guessing_Game.csprojAssemblyReference.cache
+C:\Users\Be9137\Programming\Number_Guessing_Game\obj\Debug\netcoreapp3.1\Number_Guessing_Game.AssemblyInfoInputs.cache
+C:\Users\Be9137\Programming\Number_Guessing_Game\obj\Debug\netcoreapp3.1\Number_Guessing_Game.AssemblyInfo.cs
+C:\Users\Be9137\Programming\Number_Guessing_Game\obj\Debug\netcoreapp3.1\Number_Guessing_Game.csproj.CoreCompileInputs.cache
+C:\Users\Be9137\Programming\Number_Guessing_Game\obj\Debug\netcoreapp3.1\Number_Guessing_Game.dll
+C:\Users\Be9137\Programming\Number_Guessing_Game\obj\Debug\netcoreapp3.1\Number_Guessing_Game.pdb
+C:\Users\Be9137\Programming\Number_Guessing_Game\obj\Debug\netcoreapp3.1\Number_Guessing_Game.genruntimeconfig.cache
